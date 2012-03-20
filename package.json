@@ -1,0 +1,15 @@
+{
+  "author": "Pierre Biezemans <pierre.biezemans@gmail.com>",
+  "name": "hbracing",
+  "description": "HB Racing",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
