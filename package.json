@@ -6,7 +6,9 @@
   "repository": {
     "url": ""
   },
-  "dependencies": {},
+  "dependencies": {
+    "mongoose": "2.5.11"
+  },
   "devDependencies": {},
   "optionalDependencies": {},
   "engines": {
